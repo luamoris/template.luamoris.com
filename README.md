@@ -10,8 +10,6 @@
 
 <h2 align="center"><strong>TEMPLATE</strong></h2>
 
----
-
 ##### CONTENT
 
 ###### Pattern SVG
